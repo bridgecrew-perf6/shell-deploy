@@ -7,4 +7,10 @@
     抛砖引玉
 
 #### 安装
-client 端需要支持 expect / sftp / ssh
+本地环境需要支持 expect / sftp / ssh
+```
+# 如果是debian
+sudo apt install expect
+sudo apt install sftp
+sudo apt install ssh
+```
